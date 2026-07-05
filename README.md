@@ -45,7 +45,6 @@ The primary objectives of this project are to:
 | Pandas | Data Processing |
 | Matplotlib | Data Visualization |
 | Seaborn | Statistical Visualization |
-| SQL | Data Analysis & Querying |
 | GitHub | Version Control & Portfolio |
 
 ---
