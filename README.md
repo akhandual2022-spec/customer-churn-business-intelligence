@@ -268,7 +268,6 @@ Customer-Churn-Business-Intelligence
 - Revenue Analysis
 - DAX
 - Power Query
-- SQL
 - Python
 - Data Storytelling
 - Business Recommendations
