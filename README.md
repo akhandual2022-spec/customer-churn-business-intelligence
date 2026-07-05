@@ -294,14 +294,14 @@ Customer-Churn-Business-Intelligence
 
 ## Churn Diagnostics
 
-<img width="940" height="749" alt="image" src="https://github.com/user-attachments/assets/f43e0c35-f2ba-4657-80a8-a6905a8dd3dc" />
-
+<img width="940" height="764" alt="image" src="https://github.com/user-attachments/assets/e239ca19-f757-4157-876e-a39e312b9057" />
 
 ---
 
 ## Business Performance
 
-<img width="940" height="768" alt="image" src="https://github.com/user-attachments/assets/f47b038b-3372-4a23-b9c2-d1202429ac59" />
+<img width="940" height="768" alt="image" src="https://github.com/user-attachments/assets/5a1e5852-89a1-40e0-8252-9bca2555d715" />
+
 
 
 ---
